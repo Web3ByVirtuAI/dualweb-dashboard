@@ -1,1 +1,1 @@
-# Placeholder for deploy.ts
+// Placeholder for deploy.ts
